@@ -26,7 +26,6 @@ function Header() {
   headerDiv.appendChild(lambdaTimes);
   headerDiv.appendChild(temp);
 
-  console.log(headerContainer);
   return Header;
 }
 Header();
